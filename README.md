@@ -11,7 +11,7 @@
 #### After adding the county information to the adjacent counties: 
 <img src="https://github.com/Wenhuan2516/SuicideRatesDataImputation/blob/main/step2.png" alt="County Adjacent File" title="County Adjacent File">
 
-#### by using some algorithms, I created a list of county fips of adjacent counties and they are shown in the data frame with a column called Neighbors: 
+#### by using some algorithms, I created a list of county fips of adjacent counties and they are shown in the data frame with a column called Neighbor Code: 
 <img src="https://github.com/Wenhuan2516/SuicideRatesDataImputation/blob/main/step3.png" alt="County Adjacent File" title="County Adjacent File">
 
 #### The original county adjacent file is formatted as following screenshot: 
