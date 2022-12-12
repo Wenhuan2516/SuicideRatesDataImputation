@@ -8,14 +8,17 @@
 #### The original county adjacent file is formatted as following screenshot: 
 <img src="https://github.com/Wenhuan2516/SuicideRatesDataImputation/blob/main/step1.png" alt="County Adjacent File" title="County Adjacent File">
 
-#### The original county adjacent file is formatted as following screenshot: 
+#### After adding the county information to the adjacent counties: 
 <img src="https://github.com/Wenhuan2516/SuicideRatesDataImputation/blob/main/step2.png" alt="County Adjacent File" title="County Adjacent File">
 
-#### The original county adjacent file is formatted as following screenshot: 
+#### by using some algorithms, I created a list of county fips of adjacent counties and they are shown in the data frame with a column called Neighbors: 
 <img src="https://github.com/Wenhuan2516/SuicideRatesDataImputation/blob/main/step3.png" alt="County Adjacent File" title="County Adjacent File">
 
 #### The original county adjacent file is formatted as following screenshot: 
 <img src="https://github.com/Wenhuan2516/SuicideRatesDataImputation/blob/main/step4.png" alt="County Adjacent File" title="County Adjacent File">
+
+#### The original county adjacent file is formatted as following screenshot: 
+<img src="https://github.com/Wenhuan2516/SuicideRatesDataImputation/blob/main/suicide_15.png" alt="County Adjacent File" title="County Adjacent File">
 
 #### The original county adjacent file is formatted as following screenshot: 
 <img src="https://github.com/Wenhuan2516/SuicideRatesDataImputation/blob/main/step5.png" alt="County Adjacent File" title="County Adjacent File">
