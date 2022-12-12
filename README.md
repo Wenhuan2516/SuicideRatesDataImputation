@@ -6,3 +6,4 @@
 #### https://www.census.gov/geographies/reference-files/2010/geo/county-adjacency.html#:~:text=The%20county%20adjacency%20file%20lists%20each%20county%2C%20or,Mariana%20Islands%2C%20Guam%2C%20and%20the%20U.S.%20Virgin%20Islands%29.
 
 #### The original county adjacent file is formatted as following screenshot: 
+<img src="https://github.com/Wenhuan2516/Air-Quality-and-Suicides/blob/main/suicide1.png" alt="County Adjacent File" title="County Adjacent File">
